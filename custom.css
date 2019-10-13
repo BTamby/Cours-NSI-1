@@ -1,0 +1,72 @@
+p{
+    font-size : 1em;
+}
+
+h1{
+    font-size : 3.5em;
+    padding-bottom : 0.25em;
+    text-align : center;
+    color : #ae0000;
+    box-shadow: 3px 3px red, -1em 0 .4em olive;
+}
+
+h2{
+    display : block;
+    margin : auto;
+    font-size : 3em;
+    color : #0000bb;
+    text-align : center;
+    box-shadow: 1px 1px blue, -1em 0 .2em green;
+}
+
+h3{
+    font-size : 2.5em;
+    color : #000099;
+    font-weight : bold;
+}
+
+
+
+h4{
+    /*text-align : center;*/
+    color : #008900;
+}
+
+/*** Pour le slide ***/
+.reveal p{
+    font-size : 1em;
+}
+.reveal h1{
+    font-size : 3.5em;
+    color : #ae0000;
+    padding-bottom : 0.5em;
+}
+.reveal h2{
+    font-size : 2em;
+    color : #0000ae;
+    margin : auto;
+}
+
+.reveal h3{
+    font-size : 1.5em;
+    color : #000044;
+}
+.reveal table{
+    font-size : 1.15em;
+}
+.reveal iframe{
+    width : 800px;
+    height : 400px;
+}
+.reveal div.prompt.output_prompt{
+    display :none
+}
+.reveal div.prompt.input_prompt{
+    display :none
+}
+.reveal section img{
+    margin : auto;
+}
+.reveal div.input_area{
+    font-size : 1.5em;
+}
