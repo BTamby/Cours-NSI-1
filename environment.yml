@@ -2,3 +2,9 @@ name: ISN-environment
 channels:
   - conda-forge
 dependencies:
+  - python=3.*
+  - jupyter
+  - matplotlib
+  - pip :
+    - pygame
+ 
