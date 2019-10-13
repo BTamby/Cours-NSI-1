@@ -1,0 +1,4 @@
+name: ISN-environment
+channels:
+  - conda-forge
+dependencies:
